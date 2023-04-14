@@ -1,12 +1,9 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif)](https://harjeevansingh.online)
-
 <h1 align="center">Hi 👋, I'm Harjeevan Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjeevansingh&label=Profile%20views&color=0e75b6&style=flat" alt="harjeevansingh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harjeevansingh" alt="harjeevansingh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harjeevan_singh" target="blank"><img src="https://img.shields.io/twitter/follow/harjeevan_singh?logo=twitter&style=for-the-badge" alt="harjeevan_singh" /></a> </p>
 
