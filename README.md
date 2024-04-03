@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native and some backend tools**
 
-- 👨‍💻 All of my projects are available at [harjeevansingh.online](https://www.harjeevansingh.online)
+- 👨‍💻 All of my projects are available at [harjeevansingh.in](https://www.harjeevansingh.in)
 
 - 💬 Ask me about **react, java, spring boot**
 
