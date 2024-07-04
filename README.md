@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **harjeevansingh01@gmail.com**
 
+- 💁🏻‍♀️ My Girlfriend: **https://amzn.to/3WD6FRp**
+
 - ⚡ Fun fact **I can get invisible**
 
 <h3 align="left">Connect with me:</h3>
