@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a fun mobile app**
 
-- 🌱 I’m currently learning **React Native and some backend tools**
+- 🌱 I’m currently learning **React Native and Go Lang**
 
 - 👨‍💻 All of my projects are available at [harjeevansingh.in](https://www.harjeevansingh.in)
 
